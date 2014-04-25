@@ -1,4 +1,2 @@
-datasciencecoursera
-===================
+This is the ReadMe for datasciencecoursera
 
-datasciencecoursera
